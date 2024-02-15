@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajeev Rabjan Kumar
+- 👋 Hi, I’m Rajeev Ranjan Kumar
 - 👀 I’m interested in Automation testing 
 - 🌱 I’m currently learning new tools to auromate web applications
 - 💞️ I’m looking to collaborate on ...
